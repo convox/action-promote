@@ -1,6 +1,9 @@
 name: Convox Promote
 description: Promote a release
 author: Convox
+branding:
+  icon: arrow-up-circle
+  color: blue
 inputs:
   rack:
     description: Convox Rack name
